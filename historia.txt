@@ -1,0 +1,8 @@
+Este es un proyecto para prueba de nuevos comandos de git
+
+se trata de una página hecha en boostrap
+
+Colaboradores
+
+1.-Adriana Montes Magdaleno
+2.-Eika Ezponoza López
