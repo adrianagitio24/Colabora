@@ -6,5 +6,5 @@ Editando el index
 
 Colaboradores
 
-1.-Adriana Montes Magdaleno
-2.-Eika Ezponoza López
+1.-Adriana Montes Magdaleno -> header y footer
+2.-Eika Ezponoza López -> contenido
